@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+<title>Camilla Moore</title>
+</head>
+<body>
+<header>
+<p>Camilla Moore</p>
+</header>
+<h2>About Me</h2>
+<p>I am a PhD student in Maritime Archaeology at the <a href="http://www.southampton.ac.uk/">University of Southampton</a>. I'm studying <Strong>WWII shiprecks</Strong>, their potential for causing <strong>pollution</strong>and who is <strong>legally responsible</strong> for them.<p>
+</body>
+<footer>
+<div class="five columns">
+<p> Camilla Moore 2016 All rights preserved
+<br>
+Designed and developed by Camilla </p>
+</div>
+</footer>
+</html>
